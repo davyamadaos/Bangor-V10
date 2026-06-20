@@ -1,0 +1,6 @@
+{
+  "name":"Bangor Water Level",
+  "short_name":"Bangor",
+  "display":"standalone",
+  "start_url":"./"
+}

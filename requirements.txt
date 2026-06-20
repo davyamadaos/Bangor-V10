@@ -1,0 +1,5 @@
+requests
+pandas
+numpy
+opencv-python-headless
+Pillow
